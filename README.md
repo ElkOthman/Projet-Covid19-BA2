@@ -14,7 +14,7 @@ Un autre code permet d'envoyer des données à une base de donnée InfluxDb (Env
 
 "Wifi_patientID" est un code permettant de créer une interface avec laquelle il est possible de récupérer les données insérées par le patient. C++
 
-"mode_veille" est utilisé pour mettre l'esp en veille (deepsleep). C++
+"mode_veille" est utilisé pour mettre l'ESP32 en veille (deepsleep). C++
 
 "python influx query" permet de récupérer les données de la base de donnée InfluxDB. Py
 
