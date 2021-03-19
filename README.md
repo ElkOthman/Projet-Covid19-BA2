@@ -18,7 +18,7 @@ Un autre code permet d'envoyer des données à une base de donnée InfluxDb (Env
 
 "python influx query" permet de récupérer les données de la base de donnée InfluxDB. Py
 
-"Ovulation" et "Simulation temperature" sont les codes utilisés pour la simulation. Py
+"Ovulation" et "Simulation" sont les codes utilisés pour la simulation. Py
 
 Pour envoyer les alertes au médecin/patient, les codes "Send mail python", "Experience 3 monitoring" et "Final Monitoring python" ont été utilisés. Py
 
