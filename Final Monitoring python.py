@@ -886,7 +886,7 @@ while loop:
 
                 subject = "Appartition d'une toux seche"
 
-                msg = "La valeur de la norme de l'acceleration de la toux de "+current_patientid+ " est actuellement de " + str(current_norm) + "m/s2", "c'est le debut d'une toux seche."
+                msg = "La valeur de la norme de l'acceleration de la toux de "+current_patientid+ " est actuellement de " + str(current_norm) + "g", "c'est le debut d'une toux seche."
 
                 message = 'Subject: {}\n\n{}'.format(subject, msg)
                 
@@ -918,7 +918,7 @@ while loop:
 
                 subject = "Aggravation de la toux seche"
 
-                msg = "La valeur de la norme de l'acceleration de la toux de "+current_patientid+ " est actuellement de " + str(current_norm) + "m/s2", "la toux seche s'est aggravee."
+                msg = "La valeur de la norme de l'acceleration de la toux de "+current_patientid+ " est actuellement de " + str(current_norm) + "g", "la toux seche s'est aggravee."
 
                 message = 'Subject: {}\n\n{}'.format(subject, msg)
                 
@@ -949,7 +949,7 @@ while loop:
 
                 subject = "Donnees aberrantes"
 
-                msg = "La valeur de la norme de l'acceleration de la toux de "+current_patientid+ " est actuellement de " + str(current_norm) + "m/s2", "veuillez verifier l'accelerometre."
+                msg = "La valeur de la norme de l'acceleration de la toux de "+current_patientid+ " est actuellement de " + str(current_norm) + "g", "veuillez verifier l'accelerometre."
 
                 message = 'Subject: {}\n\n{}'.format(subject, msg)
 
