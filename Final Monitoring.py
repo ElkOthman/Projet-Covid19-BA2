@@ -212,7 +212,7 @@ while loop:
         current_norm = i.get('lastdata')
         #current time is the same
     
-    #Beginning anylising accelerations
+    #Beginning anylising SpO2
     # SPO2
     for i in spo2_values:
         current_spo2 = i.get('lastdata')
