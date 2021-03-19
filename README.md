@@ -20,7 +20,7 @@ Un autre code permet d'envoyer des données à une base de donnée InfluxDb (Env
 
 "Ovulation" et "Simulation" sont les codes utilisés pour la simulation. Py
 
-Pour envoyer les alertes au médecin/patient, les codes "Send mail", "Experience 3 monitoring" et "Final Monitoring python" ont été utilisés. Py
+Pour envoyer les alertes au médecin/patient, les codes "Send mail", "Experience 3 monitoring" et "Final Monitoring" ont été utilisés. Py
 
 
 
